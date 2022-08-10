@@ -48,17 +48,22 @@ p{
     padding: 40px;
 }
 .tcloud{
+    width: 15%;
     position: absolute;
     right: 200px;
     top: 100px;
 }
 .bcloud{
+    width: 15%;
     position: absolute;
     left:200px;
     top: 500px;
 }
+.mount{
+    width: 75%;
+}
 .sun{
-    width:25%;
+    width:20%;
     position: absolute;
     top:0px;
     right:0px;
